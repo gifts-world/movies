@@ -17,10 +17,6 @@ const movieTitles = [
       "No Hard Feelings", "The Killer", "The Holdovers", "Kill Boksoon", "Past Lives",
       "The Bikeriders", "The Marvels",  "Oppenheimer", "Killers of the Flower Moon"
       "Avatar: Fire & Ash", "Zootopia 2", "Jurassic World: Rebirth", "Wicked: For Good",
-"Lilo & Stitch", "Fantastic Four: First Steps", "Superman", "Mission: Impossible – The Final Reckoning",
-"How to Train Your Dragon", "Michael", "Captain America: Brave New World", "Snow White", "Thunderbolts",
-"Minecraft", "Dog Man", "Final Destination: Bloodlines", "The Accountant 2", "Sinners",
-"Den of Thieves 2: Pantera", "Wolf Man", "Back in Action", "Karate Kid: Legends", "Bring Her Back",
 
   
 ];
