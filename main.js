@@ -1,16 +1,6 @@
 const apiKey = '39baaaf0ddc6b42b7cd1db757f91efdb';
 const movieTitles = [
-  “Avatar Fire & Ash”, “Zootopia 2”, “Jurassic World: Rebirth”, “Wicked: For Good”, “Lilo & Stitch”, “Fantastic Four: First Steps”, “Superman”, “Mission: Impossible – The Final Reckoning”, “How to Train Your Dragon”, “Michael”,
-“Captain America: Brave New World”, “Snow White”, “Thunderbolts”, “Minecraft”, “Dog Man”, “Final Destination: Bloodlines”, “The Accountant 2”, “Sinners”, “Den of Thieves 2: Pantera”, “Wolf Man”,
-“Back in Action”, “Karate Kid: Legends”, “Bring Her Back”, “A Widow’s Game”, “The Wild Robot”, “Fear Street: Prom Queen”, “Love Me”, “Mountainhead”, “The Better Sister”, “Deep Cover”,
-“Countdown”, “We Were Liars”, “Head Over Heels”, “ROMCON”, “Marry My Husband”, “Nosferatu”, “Until Dawn”, “Elio”, “28 Years Later”, “Insidious 6”,
-“The Bride!”, “Michael 2”, “Red Notice 2”, “Amateur”, “Badlands”, “Sea Amanda”, “The Running Man”, “Rodeo Man”, “Frankenstein”, “Love Hurts”,
-“Polly Pocket”, “Haunted Doll”, “Goosebumps: The Movie”, “Fast & Furious: Final Ride”, “Shazam! Fury of the Gods”, “Black Panther: Wakanda Forever”, “Doctor Strange in the Multiverse of Madness”, “Thor: Love and Thunder”, “Ant-Man and the Wasp: Quantumania”, “Guardians of the Galaxy Vol. 3”,
-“Spider-Man: No Way Home”, “Black Widow”, “Eternals”, “Shang-Chi and the Legend of the Ten Rings”, “The Batman”, “The Flash”, “Aquaman and the Lost Kingdom”, “Wonder Woman 1984”, “Justice League: Snyder Cut”, “Suicide Squad”,
-“Birds of Prey”, “Joker”, “Tenet”, “Dune”, “No Time to Die”, “Top Gun: Maverick”, “Mission: Impossible 7”, “John Wick: Chapter 4”, “Matrix Resurrections”, “Avatar: The Way of Water”,
-“Encanto”, “Turning Red”, “Lightyear”, “Soul”, “Luca”, “Raya and the Last Dragon”, “Onward”, “Frozen II”, “Toy Story 4”, “Incredibles 2”,
-“Coco”, “Moana”, “Zootopia”, “Big Hero 6”, “Inside Out”, “Finding Dory”, “Finding Nemo”, “Monsters University”, “Monsters, Inc.”, “Up”,
-  "Lilo & Stitch (2025)","Mission: Impossible – The Final Reckoning","HIT: The Third Case","The Prosecutor",
+  “Up” , "Lilo & Stitch (2025)","Mission: Impossible – The Final Reckoning","HIT: The Third Case","The Prosecutor",
     "Shadow Force","The King of Kings","Karate Kid: Legends","Lost in Starlight","Eleanor the Great"
     ,"Honey Don’t!","Dune: Part Two", "Godzilla x Kong: The New Empire", "Civil War", "Furiosa: A Mad Max Saga",
       "The Fall Guy", "Kung Fu Panda 4", "The Ministry of Ungentlemanly Warfare", "Poor Things",
