@@ -1,8 +1,8 @@
 const apiKey = '39baaaf0ddc6b42b7cd1db757f91efdb';
 const movieTitles = [
-  “Up” , "Lilo & Stitch (2025)","Mission: Impossible – The Final Reckoning","HIT: The Third Case","The Prosecutor",
-    "Shadow Force","The King of Kings","Karate Kid: Legends","Lost in Starlight","Eleanor the Great"
-    ,"Honey Don’t!","Dune: Part Two", "Godzilla x Kong: The New Empire", "Civil War", "Furiosa: A Mad Max Saga",
+      "Lilo & Stitch (2025)","Mission: Impossible – The Final Reckoning","HIT: The Third Case","The Prosecutor",
+      "Shadow Force","The King of Kings","Karate Kid: Legends","Lost in Starlight","Eleanor the Great" , 
+      "Honey Don’t!","Dune: Part Two", "Godzilla x Kong: The New Empire", "Civil War", "Furiosa: A Mad Max Saga",
       "The Fall Guy", "Kung Fu Panda 4", "The Ministry of Ungentlemanly Warfare", "Poor Things",
       "Wonka", "Napoleon", "Avatar: The Way of Water", "John Wick: Chapter 4", "The Batman",
       "The Flash", "Spider-Man: Across the Spider-Verse", "Mission: Impossible – Dead Reckoning",
@@ -16,6 +16,7 @@ const movieTitles = [
       "The Whale", "Air", "The Covenant", "Extraction 2", "Leave the World Behind",
       "No Hard Feelings", "The Killer", "The Holdovers", "Kill Boksoon", "Past Lives",
       "The Bikeriders", "The Marvels",  "Oppenheimer", "Killers of the Flower Moon"
+  
 ];
 
 const movies = [];
