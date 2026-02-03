@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://movieseen.site/sitemap.xml
+Sitemap: https://hrgold.store/sitemap.xml
+
